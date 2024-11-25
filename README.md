@@ -4,12 +4,12 @@ Full paper: **"Combining spatio-temporal pest risk prediction and decision theor
 
 Runnable code files:
 
-* [Notebook for training, validation and inference](https://github.com/johanneskopton/pest-risk-model/blob/main/run_pest_risk_model.ipynb) <a target="_blank" href="https://colab.research.google.com/github/johanneskopton/pest-risk-model/blob/main/run_pest_risk_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* [the pest risk model implementation](https://github.com/johanneskopton/pest-risk-model/blob/main/gp_model.py)
-* [visualization of the decision model](https://github.com/johanneskopton/pest-risk-model/blob/main/decision_model_vis.py)
-* [analysis of the Monte Carlo simulation](https://github.com/johanneskopton/pest-risk-model/blob/main/mc_analysis.ipynb)
-* [covariogram generation](https://github.com/johanneskopton/pest-risk-model/blob/main/covariogram.ipynb)
-* [analyze feature importance](https://github.com/johanneskopton/pest-risk-model/blob/main/feature_importance.ipynb)
+* [Notebook for training, validation and inference](https://github.com/johanneskopton/pest-risk_decision/blob/main/run_pest_risk_model.ipynb) <a target="_blank" href="https://colab.research.google.com/github/johanneskopton/pest-risk_decision/blob/main/run_pest_risk_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* [the pest risk model implementation](https://github.com/johanneskopton/pest-risk_decision/blob/main/gp_model.py)
+* [visualization of the decision model](https://github.com/johanneskopton/pest-risk_decision/blob/main/decision_model_vis.py)
+* [analysis of the Monte Carlo simulation](https://github.com/johanneskopton/pest-risk_decision/blob/main/mc_analysis.ipynb)
+* [covariogram generation](https://github.com/johanneskopton/pest-risk_decision/blob/main/covariogram.ipynb)
+* [analyze feature importance](https://github.com/johanneskopton/pest-risk_decision/blob/main/feature_importance.ipynb)
 
 Other code files for transparency (in `auxiliary`):
 
