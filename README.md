@@ -1,6 +1,6 @@
-# Model code and supplementary for Kopton et al.
+# Model code and supplementary for pest risk decision paper
 
-Full paper: **"Combining spatio-temporal pest risk prediction and decision theory to improve pest management in smallholder agriculture"**
+Full paper: **"Combining spatio-temporal pest risk prediction and decision theory to improve pest management in smallholder agriculture"** (under review)
 
 Runnable code files:
 
