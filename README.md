@@ -1,6 +1,20 @@
 # Model code and supplementary for pest risk decision paper
 
-Full paper: **"Combining spatio-temporal pest risk prediction and decision theory to improve pest management in smallholder agriculture"** (under review)
+Full paper: [**"Combining spatio-temporal pest risk prediction and decision theory to improve pest management in smallholder agriculture"**](https://doi.org/10.1016/j.compag.2025.110426)
+
+```
+@article{kopton2025,
+title = {Combining spatio-temporal pest risk prediction and decision theory to improve pest management in smallholder agriculture},
+journal = {Computers and Electronics in Agriculture},
+volume = {236},
+pages = {110426},
+year = {2025},
+issn = {0168-1699},
+doi = {https://doi.org/10.1016/j.compag.2025.110426},
+url = {https://www.sciencedirect.com/science/article/pii/S0168169925005320},
+author = {Johannes Kopton and Sytze {de Bruin} and Dario Schulz and Eike Luedeling},
+}
+```
 
 Runnable code files:
 
